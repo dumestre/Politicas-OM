@@ -89,8 +89,8 @@ Podemos compartilhar suas informações pessoais nas seguintes situações:
 10. CONTATO
 
     Se você tiver alguma dúvida sobre esta Política de Privacidade ou sobre nossas práticas de privacidade, entre em contato conosco em:
-    E-mail: suporte@om.com.br (ou seu email de suporte)
-    [Se aplicável, adicione endereço físico ou outras formas de contato]
+    E-mail: suporte@om.com.br
+   
 
 Ao usar a Plataforma OM, você reconhece que leu e compreendeu esta Política de Privacidade.
 `;
